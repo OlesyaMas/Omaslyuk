@@ -1,0 +1,3 @@
+for test Mixed Reset
+
+added new text for Soft reset
