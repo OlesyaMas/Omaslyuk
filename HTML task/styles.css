@@ -1,0 +1,22 @@
+/* Some comment */
+td, tr {
+    border: black 1px solid;
+}
+
+#cell-linkedin{
+    color: rgb(30, 42, 110)
+}
+
+.section-underscore{
+    text-decoration: underline;
+}
+
+.border-all{
+    border: 1px solid black;
+    background-color: rgb(245, 240, 235);
+    font: italic 16px 'Courier New', Courier, monospace;
+    /* font-style: italic;
+    font-size: 16px; */
+    padding: 10px;
+    margin: 5px;
+}
